@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3249277,
+	"CompatibleChangelist" : 3195953,
+	"BuildId" : "7fc3a523-71a1-4473-9ecc-5ed3eaeb734d",
+	"Modules" : 
+	{
+		"AdvancedSessions" : "UE4Editor-AdvancedSessions.dll"
+	}
+}
